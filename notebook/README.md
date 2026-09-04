@@ -5,3 +5,5 @@ Subteam Add: Addition function sums up two numbers. It breaks with imaginary num
 
 Square branch adds an new function that produces the square of the input. 
 Added sum_list function. This code calculates the total sum of a list of numbers by using a custom addition function.
+
+Fork improvement
